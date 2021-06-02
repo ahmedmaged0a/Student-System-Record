@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Cpt.Maged/interface.c
+interface.h
+D:/Cpt.Maged/interface.h
+
+D:/Cpt.Maged/interface.h
+privileges.h
+D:/Cpt.Maged/privileges.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/Cpt.Maged/privileges.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+

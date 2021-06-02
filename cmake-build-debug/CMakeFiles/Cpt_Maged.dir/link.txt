@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Cpt_Maged.dir/objects.a
+D:\Programes\mingw\mingw64\bin\ar.exe cr CMakeFiles\Cpt_Maged.dir/objects.a @CMakeFiles\Cpt_Maged.dir\objects1.rsp
+D:\Programes\mingw\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Cpt_Maged.dir/objects.a -Wl,--no-whole-archive  -o Cpt_Maged.exe -Wl,--out-implib,libCpt_Maged.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cpt_Maged.dir\linklibs.rsp
